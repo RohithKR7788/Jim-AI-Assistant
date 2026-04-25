@@ -34,3 +34,5 @@ A multimodal AI assistant capable of:
 
 ## Setup
 ```bash
+pip install -r requirements.txt
+python main.py
