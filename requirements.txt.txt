@@ -1,0 +1,12 @@
+opencv-python
+sounddevice
+scipy
+openai-whisper
+requests
+numpy
+pytesseract
+Pillow
+pyautogui
+selenium
+webdriver-manager
+ultralytics
